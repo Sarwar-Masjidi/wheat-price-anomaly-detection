@@ -60,7 +60,19 @@ pip install -r requirements.txt
 jupyter notebook notebooks/01_baseline_model.ipynb
 
 3. Run the notebook:
-- **In the notebook toolbar, select Kernel → Restart & Run All.
-- **Cells will execute in order, generating:
+- **In the notebook toolbar, select Kernel → Restart & Run All.**
+- **Cells will execute in order, generating:**
 - Raw price plots
+- Rolling median plots
+- Residual calculations
+- Anomaly detection results
+- F1 score outputs
+
+4. Check results:
+- Plots for raw prices and seasonally adjusted prices
+- F1 scores in console output (raw vs improved model)
+- Detected anomalies marked on the graphs
+
+
+
 
