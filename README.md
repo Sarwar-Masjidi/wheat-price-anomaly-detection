@@ -53,26 +53,11 @@ wheat-price-anomaly-detection/
 ## 📈 How to Run
 
 1. Install dependencies:
-
-```bash
 pip install -r requirements.txt
-Open the notebook:
+
+2.Open the notebook:
 jupyter notebook notebooks/01_baseline_model.ipynb
-Explore:
-Rolling median smoothing
-Residual calculation
-Isolation Forest anomaly detection
-Visualization of true vs detected anomalies
-⚡ Results
-Baseline (raw prices): F1 score ~0.25
-With seasonal adjustment: F1 score ~0.85
-Visualizations show how seasonal adjustment improves anomaly detection.
-💻 Future Work
-Add more sophisticated models (e.g., LSTM or Prophet) for anomaly prediction.
-Automate report generation in results/.
-Add scripts in src/ to reproduce notebook analysis programmatically.
-🔗 References
-Scikit-learn Isolation Forest
-Pandas rolling median documentation
-Matplotlib documentation
+
+3.Run the notebook:
+
 
