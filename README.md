@@ -76,4 +76,3 @@ Scikit-learn Isolation Forest
 Pandas rolling median documentation
 Matplotlib documentation
 
----
