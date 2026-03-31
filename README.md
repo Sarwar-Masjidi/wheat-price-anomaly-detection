@@ -77,13 +77,3 @@ Pandas rolling median documentation
 Matplotlib documentation
 
 ---
-
-This README is **professional, descriptive, and SOP-friendly**.  
-
-It highlights:  
-
-- Your **project story**  
-- **Data & methodology**  
-- **Results & improvements**  
-- **Folder structure** (so reviewers see it’s organized)  
-- **Future directions**  
