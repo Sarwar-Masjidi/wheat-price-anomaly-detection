@@ -52,12 +52,15 @@ wheat-price-anomaly-detection/
 
 ## 📈 How to Run
 
+
 1. Install dependencies:
 pip install -r requirements.txt
 
-2.Open the notebook:
+2. Open the notebook:
 jupyter notebook notebooks/01_baseline_model.ipynb
 
-3.Run the notebook:
-
+3. Run the notebook:
+- **In the notebook toolbar, select Kernel → Restart & Run All.
+- **Cells will execute in order, generating:
+- Raw price plots
 
