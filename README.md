@@ -72,7 +72,8 @@ jupyter notebook notebooks/01_baseline_model.ipynb
 - Plots for raw prices and seasonally adjusted prices
 - F1 scores in console output (raw vs improved model)
 - Detected anomalies marked on the graphs
-
+  
+---
 
 ## 📚 Research Context
 
