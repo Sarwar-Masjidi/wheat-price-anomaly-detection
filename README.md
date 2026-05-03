@@ -74,5 +74,16 @@ jupyter notebook notebooks/01_baseline_model.ipynb
 - Detected anomalies marked on the graphs
 
 
+## 📚 Research Context
 
+Alongside building this project, I read research on anomaly detection for sparse time series and forecasting under limited-data conditions.
+
+My goal was not to reproduce published papers exactly, but to understand how preprocessing choices affect model behavior when data is noisy, seasonal, or limited.
+
+A key takeaway from both the literature and this project was that model performance often depends as much on understanding temporal structure as on model selection itself.
+
+Related notes and experiment summaries can be added in:
+
+- `research-notes/literature-notes.md`
+- `results/summary.md`
 
